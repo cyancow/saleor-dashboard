@@ -12,6 +12,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Update quantity column in Inventory part of Product Variant view - #904 by @dominik-zeglen
 - Add file attributes - #884 by @orzechdev
 - Add reference attributes - #917 by @orzechdev
+- Add product reference attributes - #948 by @orzechdev
 
 # 2.11.1
 
